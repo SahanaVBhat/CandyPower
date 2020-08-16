@@ -8,6 +8,9 @@ TEAM 7: Neeraj Kulkarni, Sahana Bhat, Vighnesh Misal
 IMT 562 Interactive Information Visualization
 iSchool, University of Washington
 
+Link to Tableau Dashboard:
+https://public.tableau.com/views/Assignment4_Group7/Story1?:display_count=y&:origin=viz_share_link
+
 Problem Statement:
 
 One of the major concerns we look forward to answer through our visualization is related to
